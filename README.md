@@ -30,9 +30,9 @@ Aspiring **[SOC Analyst / Cybersecurity Analyst / GRC Analyst]** with hands-on e
 
 | Project | What it demonstrates |
 |---|---|
-| [🔍 SQL Security Log Analysis](https://github.com/YOUR-USERNAME/sql-security-log-analysis) | Filtering login/employee data with SQL to investigate suspicious activity |
-| [🔐 Linux File Permissions Hardening](https://github.com/YOUR-USERNAME/linux-file-permissions-hardening) | Auditing and correcting file/directory permissions with `chmod` |
-| [🚨 Incident Response Case Studies](https://github.com/YOUR-USERNAME/incident-response-case-studies) | Three incident writeups: SYN flood DoS, ICMP flood DoS, brute-force web compromise |
+| [🔍 SQL Security Log Analysis](https://github.com/Cassper84/sql-security-log-analysis) | Filtering login/employee data with SQL to investigate suspicious activity |
+| [🔐 Linux File Permissions Hardening](https://github.com/Cassper84/linux-file-permissions-hardening) | Auditing and correcting file/directory permissions with `chmod` |
+| [🚨 Incident Response Case Studies](https://github.com/Cassper84/incident-response-case-studies) | Three incident writeups: SYN flood DoS, ICMP flood DoS, brute-force web compromise |
 
 *(Pin these three on your profile — see the setup guide for how.)*
 
