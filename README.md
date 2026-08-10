@@ -11,7 +11,7 @@ INSTRUCTIONS:
 
 Aspiring **[SOC Analyst / Cybersecurity Analyst / GRC Analyst]** with hands-on experience in log analysis, incident response, SQL-based investigation, and Linux system hardening. Currently [studying for Security+ / completed the Google Cybersecurity Certificate / open to opportunities] — actively looking for entry-level cybersecurity roles.
 
-**Background:** [1–2 sentences — e.g. "Transitioning into cybersecurity from a software development background, bringing strong technical fundamentals in scripting, databases, and systems."]
+**Background:** Transitioning into cybersecurity from a software development background, bringing strong technical fundamentals in scripting, databases, and systems.
 
 ---
 
