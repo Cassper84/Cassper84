@@ -44,4 +44,4 @@ I also have earlier software development projects on this account from before I 
 
 ---
 
-📫 **Reach me:** [LinkedIn] · [Email] · [Portfolio site, if any]
+📫 **Reach me:** https://www.linkedin.com/in/onochie-ezunu-49aa56178/ · onochieezunu@gmail.com · [Portfolio site, if any]
