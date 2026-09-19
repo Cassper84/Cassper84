@@ -28,11 +28,13 @@ Aspiring **[SOC Analyst / Cybersecurity Analyst / GRC Analyst]** with hands-on e
 
 #### 📌 Featured Cybersecurity Projects
 
-| Project | What it demonstrates |
-|---|---|
-| [🔍 SQL Security Log Analysis](https://github.com/Cassper84/sql-security-log-analysis) | Filtering login/employee data with SQL to investigate suspicious activity |
-| [🔐 Linux File Permissions Hardening](https://github.com/Cassper84/linux-file-permissions-hardening) | Auditing and correcting file/directory permissions with `chmod` |
-| [🚨 Incident Response Case Studies](https://github.com/Cassper84/incident-response-case-studies) | Three incident writeups: SYN flood DoS, ICMP flood DoS, brute-force web compromise |
+| Project                                                                                                   | What it demonstrates                                                                                                  |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| [🔍 SQL Security Log Analysis](https://github.com/Cassper84/sql-security-log-analysis)                    | Filtering login/employee data with SQL to investigate suspicious activity                                             |
+| [🔐 Linux File Permissions Hardening](https://github.com/Cassper84/linux-file-permissions-hardening)      | Auditing and correcting file/directory permissions with `chmod`                                                       |
+| [🚨 Incident Response Case Studies](https://github.com/Cassper84/incident-response-case-studies)          | Three incident writeups: SYN flood DoS, ICMP flood DoS, brute-force web compromise                                    |
+| [🛡️ Vulnerability Assessment](https://github.com/Cassper84/Cassper84/tree/main/vulnerability-assessment) | Identifying and assessing security vulnerabilities, evaluating risk, and documenting recommended remediation measures |
+
 
 *(Pin these three on your profile — see the setup guide for how.)*
 
